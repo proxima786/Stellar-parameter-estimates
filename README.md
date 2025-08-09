@@ -14,6 +14,3 @@ The workflow of this project is as follows:
    - **Metallicity** (*[Fe/H]*)
 4. **Best Fit Selection** — The **minimum chi-square value** corresponds to the best-fitting stellar parameters.
 
----
-
-stall -r requirements.txt
